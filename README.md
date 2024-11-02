@@ -8,22 +8,7 @@ This repository contains the following projects:
 
 |  Sr.No.  |  Project Name  |  Description  |
 |-|-|-|
-|1.|  [Analysis of TED_TALKS Project](https://github.com/ArpitD06/Project-Portfolio/blob/main/Analysis%20of%20TED_TALKS.py) |OBJECTIVE :This project involves a comprehensive analysis of TED Talks data to uncover insights into the popularity, engagement, and thematic trends of the talks. The dataset includes information on talks, speakers, events, and viewer interactions.  TOOLS AND TECHNOLOGIES :
-Data Manipulation: Pandas, NumPy
-Statistical Analysis: Scipy, Statsmodels
-Data Visualization: Matplotlib, Seaborn
-Text Analysis: WordCloud, NLTK, TextBlob 
-KEY STEPS : 1.Data Preprocessing  - Loaded the dataset and reordered columns for convenience.
-2.EXPLORATORY DATA ANALYSIS : Identified the 15 most viewed TED Talks of all time and visualized them using bar charts.
-Investigated the distribution of views and comments to understand audience engagement.
-Calculated summary statistics to verify average and median views.
-OUTCOMES:
-Identified key factors contributing to TED Talks' popularity.
-Provided insights into audience engagement through views and comments.
-Highlighted trends in talk frequency by month, year, and themes.
-Offered actionable insights for optimizing TED Talk content and scheduling.
-
-CONCLUSION: The project successfully leveraged data science techniques to provide a comprehensive analysis of TED Talks. The insights gained from this analysis can help TED and similar platforms optimize their content strategy, improve audience engagement, and enhance the overall viewing experience.| 
+|1.|  [Analysis of TED_TALKS Project](https://github.com/ArpitD06/Project-Portfolio/blob/main/Analysis%20of%20TED_TALKS.py) |OBJECTIVE :This project involves a comprehensive analysis of TED Talks data to uncover insights into the popularity, engagement, and thematic trends of the talks. The dataset includes information on talks, speakers, events, and viewer interactions. OUTCOMES: 1.Identified key factors contributing to TED Talks' popularity.  2. Provided insights into audience engagement through views and comments. 3. Highlighted trends in talk frequency by month, year, and themes. 4.Offered actionable insights for optimizing TED Talk content and scheduling.   CONCLUSION: The project successfully leveraged data science techniques to provide a comprehensive analysis of TED Talks. The insights gained from this analysis can help TED and similar platforms optimize their content strategy, improve audience engagement, and enhance the overall viewing experience.| 
 |2.|  [Analysis of eCommerce Data](https://github.com/ArpitD06/Project-Portfolio/blob/main/Analysis%20of%20eCommerce%20Data.py) |Analyzing ECommerce Problems uncover trends, insights, and actionable information through advanced functions,and visualizations.| 
 |3.|  [HOTEL_BOOKING_Visualization ](https://github.com/ArpitD06/Project-Portfolio/blob/main/HOTEL_BOOKING_visualization.py) |Visualizing the Hotel Bookings .| 
 |4.|  [IRIS_data_Visualization ](https://github.com/ArpitD06/Project-Portfolio/blob/main/IRIS_data_Visualization.py)
