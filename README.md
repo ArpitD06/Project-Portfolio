@@ -11,8 +11,8 @@ This repository contains the following projects:
 |1.|  [Analysis of TED_TALKS Project](https://github.com/ArpitD06/Project-Portfolio/blob/main/Analysis%20of%20TED_TALKS.py) |Analyzing TED_TALKS.| 
 |2.|  [Analysis of eCommerce Data](https://github.com/ArpitD06/Project-Portfolio/blob/main/Analysis%20of%20eCommerce%20Data.py) |Analyzing ECommerce Problems uncover trends, insights, and actionable information through advanced functions,and visualizations.| 
 |3.|  [HOTEL_BOOKING_Visualization ](https://github.com/ArpitD06/Project-Portfolio/blob/main/HOTEL_BOOKING_visualization.py) |Visualizing the Hotel Bookings .| 
-|4.|  [IRIS_data_Visualization ](https://github.com/ArpitD06/Project-Portfolio/blob/main/IRIS_data_Visualization.py
-) |   | 
+|4.|  [IRIS_data_Visualization ](https://github.com/ArpitD06/Project-Portfolio/blob/main/IRIS_data_Visualization.py)
+ |   | 
 |5.|  [Library Management System Using Python](https://github.com/ArpitD06/Project-Portfolio/blob/main/Library%20Management%20System.py) |Developing a Library Management System in Python with a database backend to manage book inventory, track checkouts, and handle user accounts efficiently.| 
 |6.|  [Nearest Neighbour for Hand Written Digit Recognition](https://github.com/ArpitD06/Project-Portfolio/blob/main/NEAREST%20NEIGHBOUR%20FOR%20HANDWRITTEN%20DIGIT%20RECOGNITION.py) |D    |
 |7.|  [Olympics SQL Query ](https://github.com/ArpitD06/Project-Portfolio/blob/main/OLYMPICS%20SQL%20QUERY.sql
