@@ -3,7 +3,7 @@
 Welcome to the Project Portfolio repository! This repository serves as a central hub for all my projects, 
 showcasing a diverse range of work including  Data Analysis, Machine Learning models, SQL Query, Power BI Dashboard and more.
 
-📂 Projects Overview https://github.com/ArpitD06/Project-Portfolio/blob/main/Analysis%20of%20Zomato%20Dataset.py
+📂 Projects Overview 
 This repository contains the following projects:
 
 |  Project Name  |  Description  |
